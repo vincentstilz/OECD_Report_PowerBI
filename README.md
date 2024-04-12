@@ -2,7 +2,7 @@
 
 ## Overview
 
-This PowerBI report offers an in-depth analysis of the OECD (Organisation for Economic Co-operation and Development) Well-Being Data, covering 34 topics related to well-being and economic indicators across OECD member countries. The project aims to provide a comprehensive comparative measure of well-being, fostering a deep understanding of the dataset and extracting meaningful conclusions to empower citizens in the policy-making process.
+This PowerBI report offers an in-depth analysis of the OECD (Organisation for Economic Co-operation and Development) Well-Being Data, covering 31 topics related to well-being and economic indicators across OECD member countries. The project aims to provide a comprehensive comparative measure of well-being, fostering a deep understanding of the dataset and extracting meaningful conclusions to empower citizens in the policy-making process.
 
 ## Project Objectives
 
@@ -12,7 +12,7 @@ This PowerBI report offers an in-depth analysis of the OECD (Organisation for Ec
 
 ## Dataset
 
-The dataset, provided by the OECD in 2017, spans 34 topics relevant to societal well-being, from housing quality and affordability to health, employment, and education. It involves data aggregated by country with indicators averaged within 11 broad topics, structured and cleaned for analysis.
+The dataset, provided by the OECD in 2017, spans 31 topics relevant to societal well-being, from housing quality and affordability to health, employment, and education. It involves data aggregated by country with indicators averaged within 11 broad topics, structured and cleaned for analysis.
 
 ## Key Features of the Report
 
